@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 640px;
+    padding: 0px;
+    height: 640px;
+}
+
+body {
+    margin: 0px;
+    padding-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.item {
+    margin: 0px;
+    padding: 20px;
+    background-color: black;
+}
+
+button {
+    width: 100px;
+    margin-bottom: 50px;
+}
